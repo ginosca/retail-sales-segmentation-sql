@@ -2,7 +2,8 @@
 
 **Bootcamp:** Data Science and Machine Learning – Ironhack Puerto Rico  
 📅 **Date:** December 20, 2024  
-👩‍💻 **Author:** Ginosca Alejandro Dávila  
+👩‍💻 **Author:** Ginosca Alejandro Dávila
+🔗 [LinkedIn](https://www.linkedin.com/in/g-alejandro/) • [GitHub](https://github.com/ginosca)  
 
 This project analyzes **e-commerce transaction data** from a UK-based online retailer to uncover **revenue trends**, **product performance**, and conduct **RFM-based customer segmentation** using SQL. It demonstrates data cleaning, SQL and Python proficiency, KPI extraction, and schema deployment automation in a real MySQL environment.
 
@@ -293,4 +294,8 @@ Let the notebook prompt you for each credential when it's needed.
 Bootcamp: Data Science and Machine Learning – Ironhack Puerto Rico  
 Project: Online Retail II – Sales Analysis & Customer Segmentation  
 Date: December 20, 2024  
-This project is released under the MIT License for educational and portfolio use.
+This project is released under the MIT License for educational and portfolio use. 
+You are welcome to explore, fork, or adapt the material.
+If referencing this work, please credit the original author.
+
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/g-alejandro/) | [GitHub](https://github.com/ginosca)
