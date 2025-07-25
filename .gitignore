@@ -1,0 +1,21 @@
+# Credentials (Do NOT upload)
+config/mysql_credentials.env
+config/mysql_credentials.txt
+
+# Tableau backup (not needed)
+dashboard/online_retail_ii_dashboard_backup_all_visible.twbx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / IDE files
+.vscode/
+*.code-workspace
